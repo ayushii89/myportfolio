@@ -37,8 +37,6 @@ myportfolio/
 └── README.md             # Project documentation (this file)
 
 
-![image](https://github.com/user-attachments/assets/84a931ee-a6f7-4890-b24f-75431a454995)
-
 
 
 🔧 Setup and Deployment
