@@ -25,6 +25,8 @@ Responsive Design: Optimized for desktop, tablet, and mobile devices.
 Interactive Elements: Smooth navigation, hover effects, and dynamic content
 
 
+
+
 📂 Project Structure
 myportfolio/
 ├── index.html            # Main HTML file
